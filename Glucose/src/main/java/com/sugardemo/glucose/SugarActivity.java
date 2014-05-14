@@ -9,10 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 
-import com.orm.Database;
-import com.orm.Playlist;
 import com.orm.SugarApp;
-import com.orm.Track;
 import com.orm.query.Select;
 
 import java.util.List;

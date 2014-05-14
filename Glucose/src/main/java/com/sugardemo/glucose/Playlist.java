@@ -1,4 +1,6 @@
-package com.orm;
+package com.sugardemo.glucose;
+
+import com.orm.SugarRecord;
 
 /**
  * Created by billminter on 5/13/14.
